@@ -9,7 +9,7 @@
 # gostack-fundamentos-node
 This project is my implementation of the Financial Transactions app which is the challenger project for the Rocketseat GoStak 2020.
 
-This repository uses API Blueprint to generate API documentation. You can find the documentation [here](https://georgebezerra.github.io/gostack-fundamentos-node/).
+This repository uses API Blueprint to generate API documentation. You can find the documentation [here](https://georgebezerra.github.io/financial-transactions-node/).
 
 ## TypeScript Features
 - OOP
