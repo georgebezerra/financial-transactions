@@ -6,8 +6,8 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 
-# gostack-fundamentos-node
-This project is my implementation of the Financial Transactions app which is the challenger project for the Rocketseat GoStak 2020.
+# Financial Transactions API
+Proposed simple REST based standard for financial transactions
 
 This repository uses API Blueprint to generate API documentation. You can find the documentation [here](https://georgebezerra.github.io/financial-transactions-node/).
 
